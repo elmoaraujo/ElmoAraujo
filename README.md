@@ -9,10 +9,13 @@ Tenho interesse em ambientes que valorizem **tecnologia, dados e melhoria contí
 
 <div align="left">
   <a href="mailto:elmo.araujo12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/elmo-araujo-2b42aa228/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="http://lattes.cnpq.br/2447390454116114" target="_blank">
+    <img src="https://img.shields.io/badge/Lattes-2E7D32?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </div>
 
